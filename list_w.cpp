@@ -30,7 +30,7 @@ void CreateList(LIST *Cur)
 }		
 
 /**
- CreateList
+ AddList
  */
 
 /**
